@@ -7,3 +7,4 @@ How to Run
 * Open electionresults.jsx with ExtendScript Toolkit
 * In ExtendScript Toolkit make sure Adobe Illustrator is selected as your target environment (the default is ExtendScript Toolkit)
 * Run the script by clicking the play button.
+* The pngs will be saved into the output folder
